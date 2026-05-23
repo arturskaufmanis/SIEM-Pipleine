@@ -5,7 +5,7 @@
 A fully operational security monitoring pipeline built on a Windows Server 2025 Active Directory Domain Controller. Sysmon captures host telemetry and forwards it natively into Splunk Enterprise, enabling real-time process monitoring, threat detection, and SOC analyst workflows — all within a 500 MB/day free licence constraint.
 
 ---
-
+[hyperlink: https://arturskaufmanis.github.io/SIEM-Pipleine/]
 ## Architecture Overview
 
 ```
